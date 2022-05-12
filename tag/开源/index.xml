@@ -5,12 +5,68 @@
     <link>https://example.com/tag/%E5%BC%80%E6%BA%90/</link>
       <atom:link href="https://example.com/tag/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     <description>开源</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>开源</title>
       <link>https://example.com/tag/%E5%BC%80%E6%BA%90/</link>
     </image>
+    
+    <item>
+      <title>Lightweight markup language</title>
+      <link>https://example.com/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h3 id=&#34;lightweight-markup-language&#34;&gt;Lightweight markup language&lt;/h3&gt;
+&lt;p&gt;Languages ​​designed to easily and quickly add formatting to text data are called Lightweight markup languages. Features of such languages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Minimum of functions.&lt;/li&gt;
+&lt;li&gt;A small set of supported tags.&lt;/li&gt;
+&lt;li&gt;Easy to learn.&lt;/li&gt;
+&lt;li&gt;The source text in this language is read with the same ease as the finished document.&lt;/li&gt;
+&lt;li&gt;They are used where a person has to prepare text in a regular text editor (blogs, forums, wikis), or where it is important that a user with a regular text editor can also read the text.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here are some widely used lightweight markup languages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BBCode&lt;/li&gt;
+&lt;li&gt;Markdown&lt;/li&gt;
+&lt;li&gt;restructured text&lt;/li&gt;
+&lt;li&gt;Textile&lt;/li&gt;
+&lt;li&gt;Wiki markup&lt;/li&gt;
+&lt;li&gt;Various auto-documentation systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;history&#34;&gt;History&lt;/h3&gt;
+&lt;p&gt;The term &amp;ldquo;markup&amp;rdquo; (as a result of the process of the same name, English markup) comes from the English phrase &amp;ldquo;marking up&amp;rdquo; (&amp;ldquo;marking (as a process)&amp;rdquo;, lit. &amp;ldquo;marking, marking&amp;rdquo;), taken from the traditional publishing practice of putting special conditional marks on margins and in the text of the manuscript or proofreading before sending it to print. Thus, &amp;ldquo;markup men&amp;rdquo; indicated the typeface, style and font size for each part of the text. Nowadays, text markup is handled by editors, proofreaders, graphic designers, and, of course, the authors themselves.&lt;/p&gt;
+&lt;h3 id=&#34;τεχ&#34;&gt;ΤΕΧ&lt;/h3&gt;
+&lt;p&gt;Unlike ordinary word processors and computer layout systems built on the WYSIWYG principle, in TeX the user only sets the text and its structure, and TeX independently formats the document based on the template chosen by the user, replacing the designer and layout designer. Documents are typed in their own markup language in the form of regular ASCII files containing information about text formatting or displaying images. These files (usually with the extension &amp;ldquo;.tex&amp;rdquo;) are translated by a special program into &amp;ldquo;.dvi&amp;rdquo; (device independent) files, which can be displayed on the screen or printed. DVI files can be converted to PostScript, PDF, or other electronic format with special software.&lt;/p&gt;
+&lt;p&gt;TeX core is a low-level markup language containing indentation and font change commands. Huge opportunities in TeX are provided by ready-made sets of macros and extensions. The most common extensions to standard TeX (sets of templates, styles, etc.) are LaTeX (pronounced &amp;ldquo;latex&amp;rdquo; or &amp;ldquo;latex&amp;rdquo;) and AMS-TeX. When using the LaTeX extension package, you can turn an overgrown article into a book by changing one word in the source file, inserting a table of contents with one command, and not thinking about numbering sections, theorems, figures. There are many packages for designing chemical formulas (for example, XyMTeX package), diagrams (xypic), creating presentations and business cards, and the like.&lt;/p&gt;
+&lt;h5 id=&#34;usage&#34;&gt;Usage&lt;/h5&gt;
+&lt;p&gt;TeX can be used for all kinds of text, from short writing to multi-volume books, and TeX was originally created for longer texts and scientific papers. Many large scientific publishers use it for typography or book typesetting. Both the formula set and the font point have special power.&lt;/p&gt;
+&lt;p&gt;Recently, it has become possible to use TeX to automatically create complex layouts for XML data. Differences in syntax between the two descriptor languages ​​can be overcome with &amp;ldquo;TeXML&amp;rdquo;. Thus, in the context of XML publishing, TeX can be considered as an alternative to XSL-FO.&lt;/p&gt;
+&lt;h5 id=&#34;fonts&#34;&gt;Fonts&lt;/h5&gt;
+&lt;p&gt;To create fonts, together with TeX, the METAFONT system specially developed by D. Knuth is used, in which fonts are described by programs in a specialized Meta language. PostScript Type 1, TrueType, and OpenType vector fonts can also be used.&lt;/p&gt;
+&lt;h3 id=&#34;gencode&#34;&gt;GenCode&lt;/h3&gt;
+&lt;p&gt;The idea of ​​using markup languages ​​in computer word processing was most likely first publicized by William W. Tunnicliffe at a conference in 1967. He himself called his proposal &amp;ldquo;universal coding&amp;rdquo; (English &amp;ldquo;generic coding&amp;rdquo;). In the 1970s, Tunnicliffe led the development of the GenCode standard for the publishing industry and later became chairman of one of the International Organization for Standardization (ISO) committees that created SGML, the first descriptive markup language. Brian Reid (eng. Brian Reid (computer scientist)) in his dissertation, which he defended in 1980 at Carnegie Mellon University, developed the proposed concept into a practical implementation of descriptive markup.&lt;/p&gt;
+&lt;p&gt;However, IBM researcher Charles Goldfarb is now commonly referred to as the &amp;ldquo;father&amp;rdquo; of markup languages. The basic concept came to him in 1969 while working on a primitive document management system designed for law firms. In the same year, he took part in the creation of the IBM GML language, which was first introduced in 1973.&lt;/p&gt;
+&lt;p&gt;In 1975, Goldfarb moved from Cambridge, Massachusetts to Silicon Valley, where he became the developer of the IBM Almaden Research Center. There, in 1978, he convinced IBM management to use GML for commercial purposes as part of the company&amp;rsquo;s Document Composition Facility, after which GML was widely used in business for several years.&lt;/p&gt;
+&lt;p&gt;In 1978, the first developments began, which eventually led to the creation of the SGML standard, based on GML and GenCode. Goldfarb himself later chaired the SGML committee, which was adopted by ISO as a standard in October 1986.&lt;/p&gt;
+&lt;p&gt;Some early implementations of computer markup languages ​​can be found in UNIX typography utilities such as troff and nroff. They allow you to insert formatting commands into the text of a document to format it according to the requirements of the editor.&lt;/p&gt;
+&lt;p&gt;The availability of WYSIWYG (what you see is what you get) publishing software has supplanted most of these languages ​​among general users, although serious publishing work still uses markup for specific non-visual structures. text, and WYSIWYG editors now most often save documents in formats based on markup languages.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My week 09.05 - 15.05</title>
+      <link>https://example.com/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;my-week&#34;&gt;My week&lt;/h2&gt;
+&lt;p&gt;There were several holidays this week.
+One of them is Victory Day. This is a celebration of the victory of the Red Army and the Soviet people over Nazi Germany in the Great Patriotic War of 1941-1945. On this day, a parade was held on Red Square and a beautiful bright fireworks display was launched.&lt;/p&gt;
+&lt;p&gt;My relatives came to me in Moscow and we visited many amazing places, for example, Tsaritsino Park, or the Claude Monet exhibition. Everyone really enjoyed it and we had a great time together.&lt;/p&gt;
+&lt;p&gt;We also learned a lot this week. We did a lot of laboratory work, improved our skills in c++, arduno.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Version control.Git</title>
