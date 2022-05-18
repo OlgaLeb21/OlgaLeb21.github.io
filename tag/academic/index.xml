@@ -5,12 +5,47 @@
     <link>https://example.com/tag/academic/</link>
       <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://example.com/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>Report design</title>
+      <link>https://example.com/post/getting-started-5-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started-5-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;design&#34;&gt;Design&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Despite the presence of its own requirements at each university, which can be found in the methodological literature of your university, there are standards for preparing a practice report:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;The total amount of work does not exceed 40 sheets of standard A4 format.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The practice report is numbered on all pages (except for the title page and the appendix to the practice work).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The text of the work is printed in black type Times New Roman 12-14 pt. Between the lines set double or one and a half spacing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The indent from the new line is 1.25 pt.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Each section has its own title. The new section starts on a new line.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Before starting to create a document, acceptable page indents are set: 30 mm on the left margin, 20 mm on the right margin, 20 mm indent above and below.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When preparing a report on practice according to GOST, it is unacceptable to transfer words. However, many university departments allow word wrapping, so check this point with your department.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If you study at a technical university, you may need a frame for the report.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Lightweight markup language</title>
