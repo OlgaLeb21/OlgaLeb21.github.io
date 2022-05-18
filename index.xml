@@ -129,6 +129,41 @@ One of them is Victory Day. This is a celebration of the victory of the Red Army
     </item>
     
     <item>
+      <title>My week 16.05 - 22.05</title>
+      <link>https://example.com/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;my-week&#34;&gt;My week&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Several things happened this week:&lt;/p&gt;
+&lt;p&gt;1.I took part in the English Olympiad and took 1st place.&lt;/p&gt;
+&lt;p&gt;2.I studied lists and binary trees in C++.&lt;/p&gt;
+&lt;p&gt;3.We have done several labs on operating systems and IT.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;1.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Version control.Git</title>
       <link>https://example.com/post/getting-started/</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
@@ -329,14 +364,6 @@ $$&lt;/p&gt;
       <link>https://example.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/admin/config.yml</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://example.com/post/_index-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/_index-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
       <description></description>
     </item>
     
