@@ -5,12 +5,82 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>My week 30.05 - 05.06</title>
+      <link>https://example.com/post/getting-started-8-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started-8-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;my-week&#34;&gt;My week&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;The most important event of this week - summer has finally come!&lt;/p&gt;
+&lt;p&gt;Along with this, the time has come for exams for school graduates, sessions for students.&lt;/p&gt;
+&lt;p&gt;Moscow pleases with good weather, it is very warm outside.&lt;/p&gt;
+&lt;p&gt;This is the last week when we turn in labs.&lt;/p&gt;
+&lt;p&gt;Have a good summer everyone)&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/getting-started-8-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/1_hu4340346a481e8673477fd89cd2c52836_151644_8af91020ee2410d9314441af2bcfd327.webp 400w,
+               /post/getting-started-8-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/1_hu4340346a481e8673477fd89cd2c52836_151644_7035b9927368ee146bdd53ee71d27bb3.webp 760w,
+               /post/getting-started-8-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/1_hu4340346a481e8673477fd89cd2c52836_151644_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/getting-started-8-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/1_hu4340346a481e8673477fd89cd2c52836_151644_8af91020ee2410d9314441af2bcfd327.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;404&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>History of computer development</title>
+      <link>https://example.com/post/getting-started-9-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started-9-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h1 id=&#34;the-history-of-development&#34;&gt;The history of development&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;The first prototype of a computer appeared in 1623. It was then that the German scientist Schickard created an apparatus that could perform addition and subtraction. A little later, the Frenchman Blaise Pascal invented the same apparatus, but with the ability to do more multiplication and division. The basis of such an arithmometer was a gear wheel. Pascal&amp;rsquo;s adding machine Two centuries later, in 1832, the English mathematician Charles Babbage invented an apparatus that displayed its calculations on a negative plate for photo printing. In 1834 he invented a machine that controlled a loom. A special paper tape with holes set the algorithm for changing the fabric pattern.
+American scientist Herman Hollerith in 1890 invented a machine that worked with tables (exel prototype). In the same year, it was used in the US census.&lt;/p&gt;
+&lt;p&gt;For the first time the binary system was embodied in the operation of the machine by the German Konrad Zuse. It happened in 1938.&lt;/p&gt;
+&lt;p&gt;A real breakthrough in the creation of a computer happened in the early 50s. In the United States created the first electronic computer (computer). She already had her own memory and could memorize 1024 words. But its disadvantage was the size: the car occupied 200 square meters and weighed 30 tons. The first computer was able to shrink the car in the next decade - then large lamps were replaced with small transistors. At the same time, the first programming languages ​​were created.&lt;/p&gt;
+&lt;p&gt;The next turning point in the history of computers was the invention of the microprocessor by Intel. At first, it could only perform four mathematical operations, so it was used only in calculators. A little later, the company improved the microprocessor, it could already be used to create a computer. It was the Intel microprocessor that was used by the young Bill Gates when creating his program in the Basic programming language.&lt;/p&gt;
+&lt;p&gt;No less important was the creation of a microprocessor, thanks to which the computer could execute several programs at once. It happened in 1985, and in 1993 the Intel Pentium microprocessors appeared. The creation of the Pentium Pro processor made it possible to produce not only large and expensive computers, but also cheap PCs for the mass consumer.&lt;/p&gt;
+&lt;p&gt;The first computers in the USSR appeared in the early 80s. The first serial computer was &amp;ldquo;Electronics BK-0010&amp;rdquo;. Many other electronic computers were also created, but due to competition from the West Elektronika BK-0010, domestic computers could not find their place in the market.&lt;/p&gt;
+&lt;p&gt;Computer designs can be classified into three main stages, which are called generations. The first generation of computers were large machines built around lamps. More reliable and smaller transistorized computers are considered second-generation machines. Finally, today&amp;rsquo;s silicon-chip computers are third-generation machines. Here are some key dates in the history of computer development.&lt;/p&gt;
+&lt;p&gt;1945 The first fully electronic computer ENIAC is built. This abbreviation from English means: &amp;ldquo;electronic digital integrator and calculator.&amp;rdquo; The first machine was more like a calculator than a modern computer because it could not remember data and programs.&lt;/p&gt;
+&lt;p&gt;1947 A new electronic component, the transistor, is invented. They were first used in computers in 1953.&lt;/p&gt;
+&lt;p&gt;1948 Manchester University Mark 1 machine was the first true computer (i.e. it could remember programs).&lt;/p&gt;
+&lt;p&gt;1958 The first integrated circuit is developed.&lt;/p&gt;
+&lt;p&gt;1960 The first microcircuits are produced - integrated circuits on silicon crystals.&lt;/p&gt;
+&lt;p&gt;1975 The first small household computer &amp;ldquo;Altair&amp;rdquo; was sold.&lt;/p&gt;
+&lt;p&gt;1980 The first Sharp-RS 1211 handheld computer is manufactured in Japan.&lt;/p&gt;
+&lt;p&gt;1981 IBM launches a small but powerful desktop PC microcomputer.&lt;/p&gt;
+&lt;p&gt;Today we cannot imagine our life without a computer. Modern computers are used for a variety of tasks - from composing music and drawing to controlling aircraft.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>My week 23.05 - 29.05</title>
